@@ -13,3 +13,4 @@ export const useDarkMode = (key)=>{
       }
   }, [darkmode])
   return [darkmode, setDarkMode];
+}
